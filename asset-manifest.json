@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scrum-board-web-app/static/css/main.a4b2f9c2.chunk.css",
+    "main.js": "/scrum-board-web-app/static/js/main.5cdd24f8.chunk.js",
+    "main.js.map": "/scrum-board-web-app/static/js/main.5cdd24f8.chunk.js.map",
+    "runtime-main.js": "/scrum-board-web-app/static/js/runtime-main.fd9efde8.js",
+    "runtime-main.js.map": "/scrum-board-web-app/static/js/runtime-main.fd9efde8.js.map",
+    "static/js/2.16bb9620.chunk.js": "/scrum-board-web-app/static/js/2.16bb9620.chunk.js",
+    "static/js/2.16bb9620.chunk.js.map": "/scrum-board-web-app/static/js/2.16bb9620.chunk.js.map",
+    "index.html": "/scrum-board-web-app/index.html",
+    "precache-manifest.28e81b56dab31e0ba50f41a5f2572ac1.js": "/scrum-board-web-app/precache-manifest.28e81b56dab31e0ba50f41a5f2572ac1.js",
+    "service-worker.js": "/scrum-board-web-app/service-worker.js",
+    "static/css/main.a4b2f9c2.chunk.css.map": "/scrum-board-web-app/static/css/main.a4b2f9c2.chunk.css.map",
+    "static/js/2.16bb9620.chunk.js.LICENSE.txt": "/scrum-board-web-app/static/js/2.16bb9620.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/scrum-board-web-app/static/media/alexis-fauvet-u96-HA3rlv8-unsplash.4fa703a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd9efde8.js",
+    "static/js/2.16bb9620.chunk.js",
+    "static/css/main.a4b2f9c2.chunk.css",
+    "static/js/main.5cdd24f8.chunk.js"
+  ]
+}
